@@ -1,10 +1,9 @@
-import Header from '../src/comps/Header';
+import MyLayout from '../src/comps/MyLayout';
 
 export default function About() {
   return (
-    <div>
-      <Header />
+    <MyLayout>
       <p>This is the about page</p>
-    </div>
+    </MyLayout>
   )
 }
