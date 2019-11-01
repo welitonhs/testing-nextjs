@@ -1,0 +1,1 @@
+{"name":"hello-next","version":"1.0.0","main":"index.js","author":{"name":"Weliton H Sernajotto"},"license":"MIT","scripts":{"dev":"next","build":"next build","start":"next start"},"dependencies":{"next":"^9.1.2","react":"^16.11.0","react-dom":"^16.11.0"},"readme":"ERROR: No README data found!","_id":"hello-next@1.0.0"}
